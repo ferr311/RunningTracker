@@ -2,7 +2,7 @@ package com.shukhaev.runningtracker.di
 
 import android.content.Context
 import androidx.room.Room
-import com.shukhaev.runningtracker.Util.RUNNING_DATABASE_NAME
+import com.shukhaev.runningtracker.utils.Util.RUNNING_DATABASE_NAME
 import com.shukhaev.runningtracker.db.RunningDatabase
 import dagger.Module
 import dagger.Provides
